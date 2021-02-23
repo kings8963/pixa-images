@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/pixa-images/static/js/main.c7cbea4c.chunk.js",
+    "main.js.map": "/pixa-images/static/js/main.c7cbea4c.chunk.js.map",
+    "runtime-main.js": "/pixa-images/static/js/runtime-main.78d9eee6.js",
+    "runtime-main.js.map": "/pixa-images/static/js/runtime-main.78d9eee6.js.map",
+    "static/js/2.36afef99.chunk.js": "/pixa-images/static/js/2.36afef99.chunk.js",
+    "static/js/2.36afef99.chunk.js.map": "/pixa-images/static/js/2.36afef99.chunk.js.map",
+    "static/js/3.b26e38e0.chunk.js": "/pixa-images/static/js/3.b26e38e0.chunk.js",
+    "static/js/3.b26e38e0.chunk.js.map": "/pixa-images/static/js/3.b26e38e0.chunk.js.map",
+    "index.html": "/pixa-images/index.html",
+    "static/js/2.36afef99.chunk.js.LICENSE.txt": "/pixa-images/static/js/2.36afef99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d9eee6.js",
+    "static/js/2.36afef99.chunk.js",
+    "static/js/main.c7cbea4c.chunk.js"
+  ]
+}
